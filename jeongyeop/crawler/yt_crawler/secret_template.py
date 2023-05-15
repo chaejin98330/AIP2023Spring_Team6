@@ -1,0 +1,7 @@
+API_KEY =""
+
+SQL_USER = ""
+SQL_PW = ""
+SQL_HOST = ""
+SQL_PORT = 3306
+SQL_DB = ""
