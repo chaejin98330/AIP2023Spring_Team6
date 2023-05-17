@@ -1,6 +1,6 @@
 ## model directory :
 
--   contains model checkpoints
+-   contains trained model
 -   baseline-1 : linear regression using image + title + metadata
     -   best valid mse : 2.50 at epoch 50
     -   total training time : 82m 7s
