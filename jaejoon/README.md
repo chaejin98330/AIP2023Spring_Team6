@@ -1,4 +1,4 @@
-## model directory :
+## model directory
 
 -   contains trained model
 -   baseline-1 : linear regression using image + title + metadata
