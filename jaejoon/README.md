@@ -20,4 +20,4 @@
 
 ## train.ipynb
 
--   base code for train models (baseline, our method)
+-   base code for training (baseline, our method)
