@@ -21,7 +21,7 @@
     -   hyper parameters :
         -   learning rate : 1e-5
         -   batch size : 64
-        -   epochs : 50
+        -   epochs : 100
     -   best valid mse : 2.45 at epoch 100
     -   total training time : 140m 3s
     -   best_model test mse : 2.3392
