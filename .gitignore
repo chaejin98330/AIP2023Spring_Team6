@@ -3,6 +3,7 @@ jihyun/feature_autoencoder/train
 jihyun/feature_autoencoder/test
 jihyun/feature_autoencoder/hub
 jihyun/feature_autoencoder/__MACOSX
+jihyun/feature_autoencoder/autoencoder_best.pickle
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
