@@ -29,7 +29,7 @@
         -   no title test mse : 2.3488
         -   no meta test mse : 2.6432
 
-## baseline.ipynb
+## linear_regression.ipynb
 
 -   train simple linear regression model
 
